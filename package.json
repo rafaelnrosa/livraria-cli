@@ -1,0 +1,40 @@
+{
+  "name": "livraria-cli",
+  "version": "1.0.0",
+  "description": "BookStore Manager CLI - Sistema de gerenciamento de livraria",
+  "main": "dist/main.js",
+  "scripts": {
+    "dev": "tsx src/main.ts",
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "seed": "tsx src/scripts/seed.ts",
+    "test:app": "tsx src/scripts/test-app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelnrosa/livraria-cli.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "postgresql",
+    "cli",
+    "livraria"
+  ],
+  "author": "Rafael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelnrosa/livraria-cli/issues"
+  },
+  "homepage": "https://github.com/rafaelnrosa/livraria-cli#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "pg": "^8.22.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.11",
+    "@types/pg": "^8.11.6",
+    "tsx": "^4.23.1",
+    "typescript": "^5.5.4"
+  }
+}
