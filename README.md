@@ -1,4 +1,4 @@
-# 📚 BookStore Manager CLI
+# 📚 BookStore Manager CLI - Rafael Novo da Rosa
 
 Sistema de gerenciamento de livraria via terminal (CLI) desenvolvido com Node.js, TypeScript e PostgreSQL.
 
