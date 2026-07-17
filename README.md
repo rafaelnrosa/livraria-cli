@@ -2,7 +2,7 @@
 
 Sistema de gerenciamento de livraria via terminal (CLI) desenvolvido com Node.js, TypeScript e PostgreSQL.
 
-Link do Vídeo:
+Link do Vídeo: https://drive.google.com/file/d/1-0RcBbAzbdNZpYHOglI_RxH69ty9Xzmi/view?usp=sharing
 
 Github: https://github.com/rafaelnrosa/livraria-cli
 
